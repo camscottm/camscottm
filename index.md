@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cameron Miller's Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/camscottm/camscottm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
